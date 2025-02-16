@@ -173,5 +173,6 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 
-docs/custom_theme.css
-docs/template.tpl
+docs/*
+gpt2_decodeBeamSearch.ipynb
+gpt2_decodeLogitsScaler.ipynb
